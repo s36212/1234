@@ -1,5 +1,12 @@
 //todo
 
+// adder subtracter
+
 public class main {
-    int;
+    static void main() {
+        Adder adder = new Adder();
+        System.out.println(adder.add(1,2);
+        Subtractor subtractor = new Subtractor();
+        System.out.println(subtractor.subtract(6,3));
+    }
 }
